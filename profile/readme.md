@@ -1,6 +1,8 @@
 # Arduino Libraries
 
-**All Libraries**
+`All Libraries`
+
+##### Device Control
 
 [DirectCurrent Motor Module](https://github.com/arduino279/DirectCurrent-Motor-Module)
 
