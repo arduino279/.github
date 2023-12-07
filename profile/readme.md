@@ -4,7 +4,7 @@
 
 ##### Communication
 
-* [Serial-Monitor](https://github.com/arduino279/Serial-Monitor)
+* [Serial Monitor](https://github.com/arduino279/Serial-Monitor)
 
 ##### Device Control
 
